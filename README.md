@@ -5,4 +5,4 @@
 
 ###### Пример запуска:
 - python traceroute.py -d=ip or domain for tracing 
-- python -d vk.com
+- python traceroute.py -d vk.com
